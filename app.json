@@ -1,14 +1,14 @@
 
 {
-  "name": "TG File Sharing Bot",
+  "name": "Streamers File Sharing Bot V2",
   "description": "file sharing bot store posts and it can access by special links",
   "keywords": [
     "telegram",
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/CodeXBotz/File-Sharing-Bot",
-  "logo": "https://telegra.ph/file/14d3013fda21281c54b61.jpg",
+  "Get Latest Deals": "https://t.me/TheDealsMaster",
+  "Movies": "https://t.me/StreamersHub",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
